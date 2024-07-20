@@ -11,4 +11,4 @@ Related code in the Reinventing Multi-User Authentication Security from Cross-Ch
 
 - System type  64-bit operating system, x64-based processor
 
-- Scyther version v1.1.3. '''
+- Scyther version v1.1.3
